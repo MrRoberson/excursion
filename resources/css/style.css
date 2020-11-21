@@ -24,3 +24,8 @@ p#explain {
     font-size: 21px;
     color: gray;
 }
+
+p#copyright {
+    text-align: right;
+    color: gray;
+}
